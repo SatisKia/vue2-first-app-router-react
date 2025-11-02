@@ -1,1 +1,1 @@
-# vue2-first-app-router-react
+# vue2-first-app-routerのReactへの移植です。
